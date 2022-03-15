@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.notfoundContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 35px;
+  font-weight: bold;
+  color: #551e53;
+}
+.image {
+  width: 200px;
+  height: 200px;
+}

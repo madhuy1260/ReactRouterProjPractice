@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.aboutContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.aboutLogo {
+  height: 100px;
+  width: 100px;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 35px;
+  font-weight: bold;
+  color: #551e53;
+}
+.aboutDescriptions {
+  font-family: 'roboto';
+  font-size: 25px;
+  font-weight: 500;
+  color: #555555;
+}
